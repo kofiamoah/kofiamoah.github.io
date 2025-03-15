@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://kofiamoah.github.io/stillkairos/gallery/"  
-  - JOURNAL: "https://kofiamoah.github.io/stillkairos/journal/"
-  - ABOUT: "https://kofiamoah.github.io/stillkairos/about/"
+  - GALLERY: "https://kofiamoah.github.io/gallery/"  
+  - JOURNAL: "https://kofiamoah.github.io/journal/"
+  - ABOUT: "https://kofiamoah.github.io/about/"
 
 # All translation keys
 translations:
