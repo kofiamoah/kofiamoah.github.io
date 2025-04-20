@@ -6,10 +6,10 @@ description: "Nature + Wildlife Photography"
 images:
  - image_path: /img/slider/home01.jpg
    gallery-folder: /img/slider/
- - image_path: /img/slider/home02.jpg
+ <!-- - image_path: /img/slider/home02.jpg
    gallery-folder: /img/slider/
  - image_path: /img/slider/home03.jpg
-   gallery-folder: /img/slider/
+   gallery-folder: /img/slider/ -->
 ---
 
 
@@ -54,7 +54,7 @@ images:
 
 				<canvas id="kenburns"></canvas>
 				
-<!-- {% for image in page.images %}  	 -->
+{% for image in page.images %}  	
 
 				<figure class="gallery-item">
 					<header class='gallery-icon'>
@@ -65,7 +65,7 @@ images:
 				</header>	
 				</figure>
 
-<!-- {% endfor %} -->
+{% endfor %}
 
 				</div>
 			<!-- END WYSIWYG -->
