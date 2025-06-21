@@ -100,7 +100,7 @@ hr.small {
     -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
   }
-  /*.navbar-custom.is-fixed {
+  .navbar-custom.is-fixed {
     /* when the user scrolls down, we hide the header right above the viewport */
     position: fixed;
     top: -61px;
@@ -108,7 +108,7 @@ hr.small {
     -webkit-transition: -webkit-transform 0.3s;
     -moz-transition: -moz-transform 0.3s;
     transition: transform 0.3s;
-  }*/
+  }
   .navbar-custom.is-fixed .navbar-brand {
     color: #ffffff;
   }
